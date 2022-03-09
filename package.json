@@ -1,0 +1,40 @@
+{
+  "name": "handler-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryzenix/handler-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryzenix/handler-template/issues"
+  },
+  "homepage": "https://github.com/ryzenix/handler-template#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^10.0.0",
+    "genius-lyrics": "^4.3.5",
+    "humanize-duration": "^3.27.1",
+    "lavacord": "^1.1.9",
+    "lyrics-finder": "^21.7.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.0.8",
+    "ms": "^2.1.3",
+    "node-superfetch": "^0.2.3",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^1.0.0",
+    "spotify-to-yt": "^1.1.1",
+    "spotify-url-info": "^2.2.3",
+    "string-progressbar": "^1.0.4",
+    "timestring": "^6.0.0",
+    "winston": "^3.3.3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "prefix": "",
+    "owner": "",
+    "admins": [""],
+    "mongoURL": "",
+    "premiumTimeout": "",
+    "baseWSURL": "",
+    "wsToken": "",
+    "youtubekey": "",
+    "soundcloudkey": ""
+}
