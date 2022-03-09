@@ -74,10 +74,3 @@ typings/
 
 # FuseBox cache
 .fusebox/
-
-# Config file
-config.json
-
-# Lavalink nodes config file
-config.json
-lavalinkNodes.json

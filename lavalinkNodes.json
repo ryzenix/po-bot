@@ -1,0 +1,14 @@
+[
+    {
+        "id": "yt",
+        "host": "lava.link",
+        "port": "80",
+        "password": "idkshit"
+    },
+    {
+        "id": "sc1",
+        "host": "lavalink.oops.wtf",
+        "port": "2000",
+        "password": "www.freelavalink.ga"
+    }
+]
